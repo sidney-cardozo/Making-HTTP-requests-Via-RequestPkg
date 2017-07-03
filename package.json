@@ -1,0 +1,22 @@
+{
+  "name": "making_http_requests_via-requestpkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidney-cardozo/Making-HTTP-requests-Via-RequestPkg.git"
+  },
+  "author": "Sidney Cardozo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidney-cardozo/Making-HTTP-requests-Via-RequestPkg/issues"
+  },
+  "homepage": "https://github.com/sidney-cardozo/Making-HTTP-requests-Via-RequestPkg#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
